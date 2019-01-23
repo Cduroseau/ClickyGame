@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Captain America",
+      "image": "CaptainAmerica.png",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "KinPin",
+      "image": "KingPin.png",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Spider-Man",
+      "image": "Spider-Man.png",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Juggernaut",
+      "image": "Juggernaut.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Hulk",
+      "image": "Hulk.png",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Magneto",
+      "image": "Magneto.png",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "DareDevil",
+      "image": "DareDevil.png",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Venom",
+      "image": "Venom.png",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Thing",
+      "image": "Thing.png",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Doctor Octopus",
+      "image": "DoctorOctopus.png",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Wolverine",
+      "image": "Wolverine.png",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Doctor Doom",
+      "image": "DoctorDoom.png",
+      "count": 0
+    }
+  ]

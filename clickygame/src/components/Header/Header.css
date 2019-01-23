@@ -1,0 +1,14 @@
+.header {
+    width: 100%;
+    font-size: 2rem;
+    background-color: rgb(94, 97, 99);;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    float: left;
+  }
+  
+  .scores {
+    float: right;
+  }
